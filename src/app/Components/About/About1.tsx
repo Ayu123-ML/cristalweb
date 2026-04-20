@@ -14,7 +14,7 @@ const About1 = () => {
                 <p className="cs_section_subtitle cs_fs-18 cs_semibold cs_accent_color cs_mb_20">
                   About Us<span className="cs_shape_right"></span>
                 </p>
-                <h2 className="cs_fs_48 cs_mb_21 wow fadeInDown">we’re strategic digital marketing agency</h2>
+                <h2 className="cs_fs_48 cs_mb_21 wow fadeInDown">we're strategic digital marketing agency</h2>
                 <p className="cs_section_heading_text mb-0">We are a results-driven digital marketing agency committed to helping brands grow with powerful online strategies. Our mission is to bring innovative marketing solutions that boost visibility, attract the right audience, and convert visitors into loyal customers. With expertise across SEO, social media marketing, branding, paid ads, and data analytics, we design customized campaigns that deliver measurable success.
 
                   {/* <br/><br/>From small businesses to large enterprises, we support every stage of the digital journey with advanced tools, creative thinking, and performance-focused execution. Our team believes in transparency, smart planning, and long-term growth—making us a trusted partner for businesses that want to scale effectively in today’s competitive digital world. */}

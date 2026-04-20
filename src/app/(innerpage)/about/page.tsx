@@ -67,7 +67,7 @@ const page = () => {
       {/* <Testimonial3></Testimonial3> */}
       <Teamhead></Teamhead>
       <Awards></Awards>
-      <Team1></Team1>
+      
     </div>
   );
 };

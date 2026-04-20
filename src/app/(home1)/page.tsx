@@ -10,7 +10,7 @@ import Process1 from '../Components/Process/Process1';
 import Video1 from '../Components/Video/Video1';
 import Brand1 from '../Components/Brand/Brand1';
 import Testimonial1 from '../Components/Testimonial/Testimonial1';
-import Team1 from '../Components/Team/Team1';
+
 import Contact1 from '../Components/Contact/Contact1';
 import Blog1 from '../Components/Blog/Blog4';
 import Teamhead from '../Components/Team/Teamhead';
@@ -43,7 +43,7 @@ const page = () => {
             <Brand1></Brand1>
             <Testimonial1></Testimonial1>
             <Teamhead></Teamhead>
-            <Team1></Team1>
+            {/* <Team1></Team1> */}
             <Contact1></Contact1>
             <Blog1></Blog1>
         </div>
